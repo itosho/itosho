@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/itosho/itosho/master/profile-summary-card-output/omni/3-stats.svg)
-```
-
-    

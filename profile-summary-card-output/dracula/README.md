@@ -42,13 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/itosho/itosho/master/profile-summary-card-output/dracula/3-stats.svg)
-```
-
-    
